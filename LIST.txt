@@ -1,0 +1,24 @@
+# 代码文件说明
+#   建议按序进行阅读
+
+# TensorFlow 基础
+TensorFlow_Base/
+  tensorflow_tensor.py                         # 在 TensorFlow 中创建张量
+  tensorflow_placeholders_and_variables.py     # 使用 TensorFlow 的占位符和变量
+  tensorflow_matrices.py                       # TensorFlow 操作矩阵
+  tensorflow_tensor_operations.py              # TensorFlow 张量的基本操作
+  tensorflow_activation_functions.py           # TensorFlow 的激励函数
+  tensorflow_get_datasources.py                # 通过 TensorFlow 和 Python 访问各种数据源
+
+# TensorFlow 计算图
+TensorFlow_Graph/
+  tensorflow_graph_and_layer.py                # TensorFlow 计算图中对象和层的操作
+  tensorflow_loss_functions.py                 # TensorFlow 实现损失函数
+  tensorflow_back_propagation.py               # TensorFlow 实现反向传播
+  tensorflow_batch_and_stochastic_training.py  # TensorFlow 实现批量训练和随机训练
+  tensorflow_evaluating_models.py              # TensorFlow 实现模型评估
+  tensorflow_use_tensorboard.py                # TensorFlow 的可视化: Tensorboard
+
+# TensorFlow 综合应用实例
+TensorFlow_Sample/
+  tensorflow_mnist.py                          # TensorFlow 手写数字识别
