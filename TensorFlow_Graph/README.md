@@ -3,8 +3,6 @@ Tensorflow 是一个通过计算图的形式来表述计算过程的编程系统
 
 阅读 PDF 文档，[请点我](../Doc/Manual.pdf)。
 
-回到上级目录，[请点我](../)。
-
 ## 目录
 - TensorFlow 计算图
 	- [TensorFlow 计算图中对象和层的操作](./tensorflow_graph_and_layer.py)

@@ -3,8 +3,6 @@
 
 阅读 PDF 文档，[请点我](../Doc/Manual.pdf)。
 
-回到上级目录，[请点我](../)。
-
 ## 目录
 - TensorFlow 基础
 	- [在 TensorFlow 中创建张量](./tensorflow_tensor.py)
